@@ -1,0 +1,19 @@
+{
+  "name": "@melgrove/base",
+  "version": "1.0.0",
+  "description": "Things I want to have in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melgrove/basejs.git"
+  },
+  "author": "Oliver Melgrove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melgrove/basejs/issues"
+  },
+  "homepage": "https://github.com/melgrove/basejs#readme"
+}
