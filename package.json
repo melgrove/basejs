@@ -2,7 +2,7 @@
   "name": "@melgrove/base",
   "version": "1.0.0",
   "description": "Things I want to have in js",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/melgrove/basejs/issues"
   },
-  "homepage": "https://github.com/melgrove/basejs#readme"
+  "homepage": "https://github.com/melgrove/basejs#readme",
+  "dependencies": {
+    "@melgrove/type": "^1.0.0",
+    "unreduce": "^1.0.2"
+  }
 }
